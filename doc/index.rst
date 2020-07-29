@@ -44,6 +44,7 @@ Table of Contents
    aero_overview
    opt_overview
    airfoilopt_overview
+   overset_overview
 
 Required Software
 =================

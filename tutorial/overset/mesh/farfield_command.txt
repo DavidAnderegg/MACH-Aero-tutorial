@@ -1,0 +1,4 @@
+cgns_utils simpleOCart wing_final_L0.cgns 0.075 80 38 y 3 far.cgns
+
+
+cgns_utils autoFarfieldBC far.cgns y far_bc.cgns
